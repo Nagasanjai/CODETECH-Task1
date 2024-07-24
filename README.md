@@ -91,6 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This project is inspired by the basic need for learning and understanding Python programming concepts, with guidance and support from CODETECH and mentor Neela Sathish Kumar.
 
----
 
-Feel free to customize further according to your specific needs or preferences!
